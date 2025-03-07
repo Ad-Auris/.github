@@ -1,15 +1,14 @@
-<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to Ad Auris's Codebase</h1>
-<h3 align="center">Narrations Made Easy</h3>
+<h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to Adauris's Codebase</h1>
+<h3 align="center">[Create a branded podcast and identify high-intent leads](https://www.adauris.ai/)</h3>
 
 
 ![Ad Auris Logo](https://i.scdn.co/image/ab6765630000ba8a937e63e3305eabbfdba3b28a)
 
-- 📫 How to reach the Admin **varun.sharma@ad-auris.com**
+- 📫 How to reach the Admin **griffin.cook@adauris.ai**
 
-<h3 align="left">Connect with Ad Auris:</h3>
+<h3 align="left">Connect with Adauris:</h3>
 <p align="left">
-<a href="https://twitter.com/adauris12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adauris12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ad-auris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ad-auris" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/adauris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ad-auris" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
