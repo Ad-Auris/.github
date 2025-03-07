@@ -1,8 +1,5 @@
 <h1 align="center">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to Adauris's Codebase</h1>
-<h3 align="center">[Create a branded podcast and identify high-intent leads](https://www.adauris.ai/)</h3>
-
-
-![Ad Auris Logo](https://i.scdn.co/image/ab6765630000ba8a937e63e3305eabbfdba3b28a)
+<h3 align="center"><a href="https://www.adauris.ai?utm_source=github" target="blank">https://www.adauris.ai</a></h3>
 
 - 📫 How to reach the Admin **griffin.cook@adauris.ai**
 
